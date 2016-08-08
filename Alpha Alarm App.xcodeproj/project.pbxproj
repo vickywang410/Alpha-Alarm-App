@@ -15,6 +15,7 @@
 		31CB1A941D380FEC0002B4B3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 31CB1A921D380FEC0002B4B3 /* LaunchScreen.storyboard */; };
 		31CB1A9F1D380FEC0002B4B3 /* Alpha_Alarm_AppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31CB1A9E1D380FEC0002B4B3 /* Alpha_Alarm_AppTests.swift */; };
 		31CB1AAA1D380FEC0002B4B3 /* Alpha_Alarm_AppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31CB1AA91D380FEC0002B4B3 /* Alpha_Alarm_AppUITests.swift */; };
+		31CB1AB81D3814A60002B4B3 /* SettingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31CB1AB71D3814A60002B4B3 /* SettingViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		31CB1AA51D380FEC0002B4B3 /* Alpha Alarm AppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Alpha Alarm AppUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		31CB1AA91D380FEC0002B4B3 /* Alpha_Alarm_AppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Alpha_Alarm_AppUITests.swift; sourceTree = "<group>"; };
 		31CB1AAB1D380FEC0002B4B3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		31CB1AB71D3814A60002B4B3 /* SettingViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				31CB1A891D380FEB0002B4B3 /* FirstViewController.swift */,
 				31CB1A8B1D380FEC0002B4B3 /* SecondViewController.swift */,
 				31CB1A8D1D380FEC0002B4B3 /* Main.storyboard */,
+				31CB1AB71D3814A60002B4B3 /* SettingViewController.swift */,
 				31CB1A901D380FEC0002B4B3 /* Assets.xcassets */,
 				31CB1A921D380FEC0002B4B3 /* LaunchScreen.storyboard */,
 				31CB1A951D380FEC0002B4B3 /* Info.plist */,
@@ -265,6 +268,7 @@
 				31CB1A8C1D380FEC0002B4B3 /* SecondViewController.swift in Sources */,
 				31CB1A881D380FEB0002B4B3 /* AppDelegate.swift in Sources */,
 				31CB1A8A1D380FEB0002B4B3 /* FirstViewController.swift in Sources */,
+				31CB1AB81D3814A60002B4B3 /* SettingViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
